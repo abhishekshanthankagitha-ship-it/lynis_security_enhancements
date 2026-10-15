@@ -1,0 +1,17 @@
+========================================
+ Advanced Login Banner Security Audit
+========================================
+
+Checking /etc/issue
+[OK] Banner file exists and is not empty
+[WARNING] Missing keywords: authorized unauthorized monitor
+[OK] No obvious credential assignments detected
+
+Checking /etc/issue.net
+[OK] Banner file exists and is not empty
+[OK] Required warning keywords are present
+[OK] No obvious credential assignments detected
+
+========================================
+ Security Audit Completed
+========================================
